@@ -6,7 +6,7 @@
 
 [link de acesso](https://pudimo.github.io/nlw-project-VSC/)
 
-# projeto feito durante evento nlw eSports para funs de aprendizado
+# projeto feito durante evento nlw eSports para fins de aprendizado
 
 ##  tecnologias
 - HTML
