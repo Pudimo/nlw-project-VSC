@@ -12,4 +12,4 @@
 - HTML
 - CSS
 - GIT
-- GIRHUB
+- GITHUB
